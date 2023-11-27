@@ -6,7 +6,7 @@ then you can install the requirements.txt
 pip install -r requirements.txt
 ```
 
-then you need fill the .env (you can see key in .env-example)
+then you need fill the .env (you can see key in .env-example) then run
 ```python
 python main.py
 ```
